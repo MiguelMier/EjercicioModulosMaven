@@ -1,5 +1,6 @@
 package es.babel;
 
+
 import es.babel.applications.AhorcadoApplication;
 import es.babel.configuration.AppConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
